@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 8ee89cede797a754e9e81085ec1c4afd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7087583726945629861
+    second: texture background 4_0
+  - first:
+      213: 4214581993628432949
+    second: texture background 4_1
+  - first:
+      213: -6330770304489042511
+    second: texture background 4_2
+  - first:
+      213: -8099412312924064462
+    second: texture background 4_3
+  - first:
+      213: 8302265704807246075
+    second: texture background 4_4
+  - first:
+      213: 1884330176159353921
+    second: texture background 4_5
+  - first:
+      213: -7671808038597163302
+    second: texture background 4_6
+  - first:
+      213: 707836688453794573
+    second: texture background 4_7
+  - first:
+      213: 5823568644883477511
+    second: texture background 4_8
+  - first:
+      213: 5339840115473631470
+    second: texture background 4_9
+  - first:
+      213: -3585487574462230842
+    second: texture background 4_10
+  - first:
+      213: -1190084471502319505
+    second: texture background 4_11
+  - first:
+      213: 7667361868265351839
+    second: texture background 4_12
+  - first:
+      213: 5901444820060337699
+    second: texture background 4_13
+  - first:
+      213: -3557831523775522262
+    second: texture background 4_14
+  - first:
+      213: 7884985524955228316
+    second: texture background 4_15
+  - first:
+      213: 952235877594069772
+    second: texture background 4_16
+  - first:
+      213: 2359433106727910955
+    second: texture background 4_17
+  - first:
+      213: 2183410129310003692
+    second: texture background 4_18
+  - first:
+      213: 8556999750029406361
+    second: texture background 4_19
+  - first:
+      213: 2726731871936435934
+    second: texture background 4_20
+  - first:
+      213: -4836144705424905789
+    second: texture background 4_21
+  - first:
+      213: 2374327924296429274
+    second: texture background 4_22
+  - first:
+      213: -7422323154124850022
+    second: texture background 4_23
+  - first:
+      213: 6004380867059818824
+    second: texture background 4_24
+  - first:
+      213: -5363116243089990174
+    second: texture background 4_25
+  - first:
+      213: 1779119312518259060
+    second: texture background 4_26
+  - first:
+      213: 4747433628623487452
+    second: texture background 4_27
+  - first:
+      213: -543823766876642753
+    second: texture background 4_28
+  - first:
+      213: -1089235866707586641
+    second: texture background 4_29
+  - first:
+      213: -8818201064716652841
+    second: texture background 4_30
+  - first:
+      213: 2207374275687154740
+    second: texture background 4_31
+  - first:
+      213: -8355194035680364975
+    second: texture background 4_32
+  - first:
+      213: -7254118646389455027
+    second: texture background 4_33
+  - first:
+      213: 301807006440761196
+    second: texture background 4_34
+  - first:
+      213: 7224979031989390407
+    second: texture background 4_35
+  - first:
+      213: 3229383043438266846
+    second: texture background 4_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: texture background 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2171
+        width: 228
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6fe6819d72c5260800000000000000
+      internalID: 7087583726945629861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2261
+        width: 328
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53afafe4ef33d7a30800000000000000
+      internalID: 4214581993628432949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2364
+        width: 285
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc65e23f59428a0800000000000000
+      internalID: -6330770304489042511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2053
+        width: 355
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357cb6f96b199f80800000000000000
+      internalID: -8099412312924064462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_4
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2154
+        width: 243
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8a1f5dba2973370800000000000000
+      internalID: 8302265704807246075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1853
+        width: 316
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c0785cf4c762a10800000000000000
+      internalID: 1884330176159353921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1953
+        width: 355
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60e626c33488590800000000000000
+      internalID: -7671808038597163302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1635
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bf646c7bdb2d900800000000000000
+      internalID: 707836688453794573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1735
+        width: 354
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704f163f3d871d050800000000000000
+      internalID: 5823568644883477511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1836
+        width: 152
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8cf281b4cea1a40800000000000000
+      internalID: 5339840115473631470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce0a993c0acd3ec0800000000000000
+      internalID: -3585487574462230842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1535
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60556f7a78fb7fe0800000000000000
+      internalID: -1190084471502319505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1486
+        width: 85
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae45aeef0f76a60800000000000000
+      internalID: 7667361868265351839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1317
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f341fbc426e150800000000000000
+      internalID: 5901444820060337699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_14
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1417
+        width: 354
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a5cae441b00aec0800000000000000
+      internalID: -3557831523775522262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_15
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1573
+        width: 61
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ad0afe881d6d60800000000000000
+      internalID: 7884985524955228316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1142
+        width: 174
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b706a4c75073d00800000000000000
+      internalID: 952235877594069772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1217
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e30d5e8e36eb020800000000000000
+      internalID: 2359433106727910955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 899
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce13384c1f70d4e10800000000000000
+      internalID: 2183410129310003692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 999
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990fb9b8fe190c670800000000000000
+      internalID: 8556999750029406361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_20
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1099
+        width: 277
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d180d03c47d520800000000000000
+      internalID: 2726731871936435934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 263
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c923ce630092ecb0800000000000000
+      internalID: -4836144705424905789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 353
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeaafbdaae43f020800000000000000
+      internalID: 2374327924296429274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 581
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c3b3e9a6c9ef890800000000000000
+      internalID: -7422323154124850022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_24
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 681
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841a0450698d35350800000000000000
+      internalID: 6004380867059818824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_25
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 781
+        width: 186
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed5e7121326295b0800000000000000
+      internalID: -5363116243089990174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 45
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47120bba693b0b810800000000000000
+      internalID: 1779119312518259060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 163
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1c8d47bb542e140800000000000000
+      internalID: 4747433628623487452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 263
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3227e25a23f378f0800000000000000
+      internalID: -543823766876642753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_29
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 363
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1974010c142e0f0800000000000000
+      internalID: -1089235866707586641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_30
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 463
+        width: 95
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea79b3ad47f9580800000000000000
+      internalID: -8818201064716652841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 136
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340ba4653b22ae10800000000000000
+      internalID: 2207374275687154740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1563fc1da436c0c80800000000000000
+      internalID: -8355194035680364975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 336
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d474b6b6681345b90800000000000000
+      internalID: -7254118646389455027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_34
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 354
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6720a19fdb303400800000000000000
+      internalID: 301807006440761196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_35
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 45
+        width: 311
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c8f576628444460800000000000000
+      internalID: 7224979031989390407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texture background 4_36
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 219
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9cecb94c211dc20800000000000000
+      internalID: 3229383043438266846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      texture background 4_0: 7087583726945629861
+      texture background 4_1: 4214581993628432949
+      texture background 4_10: -3585487574462230842
+      texture background 4_11: -1190084471502319505
+      texture background 4_12: 7667361868265351839
+      texture background 4_13: 5901444820060337699
+      texture background 4_14: -3557831523775522262
+      texture background 4_15: 7884985524955228316
+      texture background 4_16: 952235877594069772
+      texture background 4_17: 2359433106727910955
+      texture background 4_18: 2183410129310003692
+      texture background 4_19: 8556999750029406361
+      texture background 4_2: -6330770304489042511
+      texture background 4_20: 2726731871936435934
+      texture background 4_21: -4836144705424905789
+      texture background 4_22: 2374327924296429274
+      texture background 4_23: -7422323154124850022
+      texture background 4_24: 6004380867059818824
+      texture background 4_25: -5363116243089990174
+      texture background 4_26: 1779119312518259060
+      texture background 4_27: 4747433628623487452
+      texture background 4_28: -543823766876642753
+      texture background 4_29: -1089235866707586641
+      texture background 4_3: -8099412312924064462
+      texture background 4_30: -8818201064716652841
+      texture background 4_31: 2207374275687154740
+      texture background 4_32: -8355194035680364975
+      texture background 4_33: -7254118646389455027
+      texture background 4_34: 301807006440761196
+      texture background 4_35: 7224979031989390407
+      texture background 4_36: 3229383043438266846
+      texture background 4_4: 8302265704807246075
+      texture background 4_5: 1884330176159353921
+      texture background 4_6: -7671808038597163302
+      texture background 4_7: 707836688453794573
+      texture background 4_8: 5823568644883477511
+      texture background 4_9: 5339840115473631470
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
